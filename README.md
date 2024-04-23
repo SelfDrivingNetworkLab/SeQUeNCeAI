@@ -1,4 +1,5 @@
-# SEQUENCE AI: Kiran: Making additions for AI in the quantum network simulator
+# SEQUENCE AI:
+## Kiran: Making additions for AI in the quantum network simulator
 Updates:
 - adding Yaml capability
 - adding AI libraries
